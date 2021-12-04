@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/WEAVER/allLib/ecology/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/WEAVER/allLib/ecology/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/WEAVER/allLib/ecology/lib" recursive="false" />
+    <jarDirectory url="file://D:/WEAVER/allLib/ecology/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
